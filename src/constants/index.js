@@ -119,7 +119,7 @@ const experiences = [
     company_name: "ZestMoney",
     icon: zestmoney,
     iconBg: "#FFFFFF",
-    date: "Jan 2021 - Feb 2022",
+    date: "March 2020 - May 2021",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -132,7 +132,7 @@ const experiences = [
     company_name: "Trinkerr",
     icon: trinkerr,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "May 2021 - April 2022",
     points: [
       "Built whole mobile application from scratch and launched which helped the company to get a great deal in series A funding and reach 500K+ downloads in just 2 weeks.",
       "Solely developed whole Watchlist module with CRUD functionality of the trading app implemented with Web Sockets for real-time price data of assets.",
