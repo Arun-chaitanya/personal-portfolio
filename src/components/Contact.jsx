@@ -14,7 +14,6 @@ const Contact = () => {
     email: "",
     message: "",
   });
-  console.log(import.meta.env.VITE_APP_EMAILJS_SERVICE_ID, "hihi")
 
   const [loading, setLoading] = useState(false);
 
